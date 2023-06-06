@@ -6,7 +6,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
-    Vector2 dir = Vector2.zero;     //ˆÚ“®•ûŒü‚ð•Û‘¶‚·‚é
+    Vector3 dir = Vector3.zero;     //ˆÚ“®•ûŒü‚ð•Û‘¶‚·‚é
 
     void Start()
     {
